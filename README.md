@@ -25,7 +25,7 @@ To get the project running, follow these commands in your terminal:
 
 ```bash
 # 1. Clone the project
-git clone [https://github.com/Navvi0/NeuralSentry_AI.git](https://github.com/Navvi0/NeuralSentry_AI.git)
+git clone https://github.com/Navvi0/NeuralSentry_AI.git
 cd NeuralSentry_AI
 
 # 2. Set up the virtual environment
